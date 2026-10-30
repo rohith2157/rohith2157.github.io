@@ -1,0 +1,6 @@
+# local tooling and private notes stay out of the public site
+.claude/
+SKILL.md
+RESUME_REVIEW.md
+resume/
+geist-mono-latin.woff2
